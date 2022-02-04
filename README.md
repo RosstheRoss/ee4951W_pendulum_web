@@ -8,7 +8,6 @@ Please note: “the website” refers to the website that you see when you execu
 
 ```
 app (folder)
-
 ├── app (folder)
 │ ├── __init__.py (blank file)
 │ ├── admin_views.py (Was left unedited)
